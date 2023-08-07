@@ -55,8 +55,6 @@ This set of scripts provides functionality to scrape content from various catego
 
 ## Disclaimer:
 
-Please use this script responsibly and ethically. Make sure you have permission to scrape and avoid overloading the server with frequent requests.
+Do not use it more than once withing a half hour period avoid overloading the server with frequent requests.
 
 ---
-
-**Note**: This README is a basic overview based on the provided scripts. It may need further adjustments based on any additional functionality or specific requirements you might have.
