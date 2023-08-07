@@ -1,7 +1,7 @@
 
 # Dhaka Tribune Web Scraper
 
-This set of scripts provides functionality to scrape content from various categories of the [Dhaka Tribune](https://www.dhakatribune.com/) website. It collects URLs from the selected categories and subsequently extracts the title and body content from each URL.
+This set of scripts provides functionality to scrape content from various categories of the [Dhaka Tribune](https://www.dhakatribune.com/) website, which is a news portal. It collects URLs from the selected categories and subsequently extracts the title and body content from each URL.
 
 ---
 
